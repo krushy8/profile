@@ -1,0 +1,64 @@
+h1 {
+  font-family: "clother", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-optical-sizing: auto;
+  color: #493628;
+  line-height: 0.5;
+ }
+
+ .img-circle {
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: "clother", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+  color: #AB886D;
+  line-height: 0.5;
+ }
+
+body {
+  background-color: #FFFDF1;
+  font-family: "clother", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+  color: #00313D;
+  line-height: 1.6;
+  text-align: center;
+ }
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 24px;
+}
+
+.list-icon {
+  font-size: 24px;
+  color: #493628;
+}
+
+.list-icon:hover {
+  color: #AB886D;
+  transition: 0.75s;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card-white {
+  background-color: white;
+  padding: 30px;
+  margin-top: 24px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
+}
